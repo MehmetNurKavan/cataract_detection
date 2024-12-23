@@ -35,25 +35,20 @@ Bu proje, katarakt hastalığını tespit etmek amacıyla geliştirilmiştir. A�
 
 Aşağıda, modelin eğitim süreci ve doğruluğuna dair grafikler bulunmaktadır:
 
-![efficientNetB0](efficientNetB0_0.png)
+*ilk model*
 
-![efficientNetB0](efficientNetB0_1.png)
-*efficientNetB0*
+![ilk model](model_0.png)
 
 ![ilk model](model_0.1.png)
 
-![ilk model](model_0.png)
+
+*efficientNetB0 ile*
+
+![efficientNetB0](efficientNetB0_0.png)
+
+![efficientNetB0](efficientNetB0_1.png)
+
 **
-
-## Projeyi Çalıştırma
-
-### Gereksinimler
-- Python 3.x
-- TensorFlow
-- NumPy
-- Matplotlib
-
-### Kurulum
 
 Projenin çalışabilmesi için aşağıdaki komutları kullanarak gerekli kütüphaneleri kurabilirsiniz:
 
